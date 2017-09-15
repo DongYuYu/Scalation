@@ -1,4 +1,4 @@
-Welcome to ScalaTion<br>
+Welcome to ScalaTion<br><br>
 ScalaTion serves a testbed for exploring a modeling continuum that includes Analytics, Simulation and Optimization. ScalaTion provides comprehensive support for Discrete-Event Simulation (DES) and an easy to use framework for Big Data Analytics. As optimization techniques are used in analytics and for simulation optimization, many optimization algorithms are also provided. The software is Free and Open Source under an MIT License. 
 Copyright (c) 2009-2015, John A. Miller and the University of Georgia
 
